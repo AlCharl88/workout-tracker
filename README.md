@@ -2,7 +2,7 @@
 
 The task is to develop a create a workout tracker using a Mongo database.
 
-## 📝Description
+## Description
 
 The workout tracker is used to track daily workout products. 
 
@@ -40,7 +40,7 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 ## Application Links
 * [Github](https://github.com/AlCharl88/workout-tracker)
-* [Heroku Live Deployment]()
+* [Heroku Live Deployment](https://git.heroku.com/young-reaches-03760.git)
 
 ## Contact 
 
